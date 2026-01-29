@@ -13,4 +13,4 @@ division = num1 / num2
 print("Addition: ", addition)
 print("Subtraction: ", subtraction)
 print("Multiplication: ", multiplication)
-print("Division: ", division)
+print("Division: ", round(division,3))
